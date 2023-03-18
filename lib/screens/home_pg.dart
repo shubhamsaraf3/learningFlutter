@@ -12,7 +12,7 @@ class Home extends StatelessWidget {
         drawer: Drawer(),
         body: Center(
             child: Container(
-          child: Text("Welcome to my $day App"),
+          child: Text("Hello! Welcome to my $day App"),
         )));
   }
 }
